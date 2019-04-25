@@ -7,6 +7,27 @@ Sistema gerenciador de academia que fornece auxílio no controle de acesso, cont
 
 O software é destinado aos proprietários de academias que buscam uma forma inteligente de gerenciar seu negócio, prezando pela produtividade e performance da empresa. A implantação do sistema deve oferecer comodidade aos funcionários e simplicidade no gerenciamento da academia, alavancando o faturamento final da empresa.
 
+## Telas do Software
+### Tela de Login
+<p align="center">
+<img src="https://raw.githubusercontent.com/PedroBernini/Sistema-Academia/master/Telas%20de%20Exemplo/Tela%20de%20Login.jpg" text_align="center" width="600" height="379">
+</p>
+
+### Tela de Cadastro
+<p align="center">
+<img src="https://raw.githubusercontent.com/PedroBernini/Sistema-Academia/master/Telas%20de%20Exemplo/Tela%20de%20Cadastro.jpg" text_align="center" width="800" height="438">
+</p>
+
+### Tela de Cadastro de Cliente
+<p align="center">
+<img src="https://raw.githubusercontent.com/PedroBernini/Sistema-Academia/master/Telas%20de%20Exemplo/Cadastro%20de%20Cliente.jpg" text_align="center" width="800" height="436">
+</p>
+
+### Tela de Pagamento
+<p align="center">
+<img src="https://raw.githubusercontent.com/PedroBernini/Sistema-Academia/master/Telas%20de%20Exemplo/Tela%20de%20Pagamento.jpg" text_align="center" width="800" height="438">
+</p>
+
 ## Desenvolvedores:
 O sistema foi desenvolvido pelo seguinte grupo:
 - [Alfredo Albélis](https://github.com/AlfredoFilho)
